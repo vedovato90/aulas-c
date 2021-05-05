@@ -2,7 +2,7 @@
 #include <conio.h>
 int main(void)
 
-float notas [5] = {7, 8, 9.5, 9.3, 5,2}
+float notas [5] = {7, 8, 9.5, 9.3, 5,2};
 // declarando e inicializando o vetor notas
 
 printf ("Exibindo os valores do vetor \n\n");
